@@ -2,7 +2,7 @@
 pragma solidity ^0.8.9;
 
 
-contract PlatinumFunding{
+contract PlatinodeFunding{
 
     struct Project {
         address owner;
